@@ -1,0 +1,7 @@
+    {"target": "es5",
+    "noImplicitAny": false,
+    "module": "commonjs",
+    "removeComments": false,
+    "sourceMap": true,//调试ts-node  需要改成true
+    "outDir": "dist"//你要生成js的目录
+    }
